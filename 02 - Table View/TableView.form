@@ -1514,9 +1514,9 @@
 			<key>$class</key>
 			<string>FMSubviewGroup</string>
 			<key>FMGroup.canvasCenter.x</key>
-			<real>530.99993896484375</real>
+			<real>527.99993896484375</real>
 			<key>FMGroup.canvasCenter.y</key>
-			<real>131.49998474121094</real>
+			<real>125.99999237060547</real>
 			<key>FMGroup.node</key>
 			<dict>
 				<key>$reference</key>
@@ -1661,7 +1661,7 @@
 			<key>FMNode.position.x</key>
 			<real>836.5</real>
 			<key>FMNode.position.y</key>
-			<real>-133</real>
+			<real>-121</real>
 			<key>FMNode.selected</key>
 			<false/>
 			<key>FMNode.subnodeGroup</key>
@@ -3029,7 +3029,7 @@
 			<key>FMNode.position.x</key>
 			<real>291</real>
 			<key>FMNode.position.y</key>
-			<real>40</real>
+			<real>51.5</real>
 			<key>FMNode.selected</key>
 			<false/>
 		</dict>
@@ -3603,7 +3603,7 @@
 			<key>FMNode.position.x</key>
 			<real>330.5</real>
 			<key>FMNode.position.y</key>
-			<real>-21</real>
+			<real>-11.5</real>
 			<key>FMNode.selected</key>
 			<false/>
 		</dict>
@@ -4327,7 +4327,7 @@
 			<key>FMNode.position.x</key>
 			<real>371.5</real>
 			<key>FMNode.position.y</key>
-			<real>120</real>
+			<real>127.5</real>
 			<key>FMNode.selected</key>
 			<false/>
 		</dict>
@@ -4659,9 +4659,9 @@
 				<string>$object-365</string>
 			</dict>
 			<key>FMNode.position.x</key>
-			<real>484</real>
+			<real>481</real>
 			<key>FMNode.position.y</key>
-			<real>15</real>
+			<real>22</real>
 			<key>FMNode.selected</key>
 			<false/>
 			<key>FMNode.subnodeGroup</key>
@@ -5682,9 +5682,9 @@
 				<string>$object-402</string>
 			</dict>
 			<key>FMNode.position.x</key>
-			<real>633.5</real>
+			<real>634.5</real>
 			<key>FMNode.position.y</key>
-			<real>-22.5</real>
+			<real>-13</real>
 			<key>FMNode.selected</key>
 			<false/>
 		</dict>
@@ -6240,7 +6240,7 @@
 			<key>FMNode.position.x</key>
 			<real>648.5</real>
 			<key>FMNode.position.y</key>
-			<real>192.5</real>
+			<real>188.5</real>
 			<key>FMNode.selected</key>
 			<false/>
 		</dict>
